@@ -1,0 +1,38 @@
+html{
+		margin:0px;
+}
+
+body{
+	background-color: #e3ded3;
+	font-family: "Charter";
+	text-align: center;
+
+}
+
+.logo{
+	width: 128px;
+	height: 128px;
+}
+
+.centertitle{
+	text-align: center;
+}
+
+.header{
+	margin-top:50px;
+	margin-bottom:30px;
+	padding: 20px;
+	background-color:rgba(255, 255, 255, 0.3);
+}
+
+a.menuchoice{
+	font-size:18pt;
+	text-decoration: none;
+	text-align: center;
+	color: black;
+
+}
+a.menuchoice:hover{
+	color:#aeaeae;
+	text-decoration: none;
+}
