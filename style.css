@@ -1,8 +1,9 @@
 html{
-		margin:0px;
+		margin:0px;		
 }
 
 body{
+	margin:0px;
 	background-color: #e3ded3;
 	font-family: "Charter";
 	text-align: center;
@@ -14,6 +15,11 @@ body{
 	height: 128px;
 }
 
+#title{
+	font-size: 28pt;
+	width:auto;
+}
+
 .centertitle{
 	text-align: center;
 }
@@ -23,6 +29,10 @@ body{
 	margin-bottom:30px;
 	padding: 20px;
 	background-color:rgba(255, 255, 255, 0.3);
+}
+
+.blogheader{
+	margin-top:0px;
 }
 
 a.menuchoice{
