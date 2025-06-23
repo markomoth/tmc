@@ -46,3 +46,11 @@ a.menuchoice:hover{
 	color:#aeaeae;
 	text-decoration: none;
 }
+
+.blogpost{
+	max-width:600px;
+	font-size:14pt;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+}
