@@ -10,6 +10,18 @@ body{
 
 }
 
+table,th,td{
+	border: 1px solid;
+}
+
+table{
+  	border-collapse:collapse;
+}
+
+th, td {
+  padding: 8px;
+}
+
 .logo{
 	width: 128px;
 	height: 128px;
